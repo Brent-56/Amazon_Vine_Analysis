@@ -13,4 +13,4 @@ Secondly we calculated the total number of 5 star reviews, total 5 star paid rev
 
 ![B99FD6AF-D369-466D-9AB8-495ABBEAFF6C](https://user-images.githubusercontent.com/112785655/212982539-88be2fa7-9d5e-4813-ac60-b415123a6037.jpeg)
 
-Thirdly we we calculated 5 star paid reviews as a percentage of all the 5 star reviews. Then we calculated all the 5 star unpaid reviews as a percentage of the total unpaid reviews. Afterwards we calculated 5 star unpaid reviews asa percentage of total 5 star reviews. 
+To conclude this analysis we we calculated 5 star paid reviews as a percentage of all the 5 star reviews. Then we calculated all the 5 star unpaid reviews as a percentage of the total unpaid reviews. Afterwards we calculated 5 star unpaid reviews as a percentage of total 5 star reviews. 
